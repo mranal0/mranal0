@@ -11,7 +11,22 @@
 - 👯 Open to collaborate on **Java projects / Open Source**  
 - ⚡ Fun fact: I dry run more than I code 😅  
 
+## 🤝 Connect Me
 
+<p align="center">
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/mranal0/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" width="40" alt="LeetCode"/>
+  </a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/mranal0/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="40" alt="LinkedIn"/>
+  </a>
+  <!-- Gmail -->
+  <a href="mailto:mranalsawle2004@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="40" width="40" alt="Gmail"/>
+  </a>
+</p>
 
 ## 🛠️ Tech Stack
 

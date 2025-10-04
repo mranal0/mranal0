@@ -1,7 +1,7 @@
 <!-- Profile README for GitHub -->
 
 <h1 align="center">Hi 👋, I'm Mranal</h1>
-<h3 align="center">A Software developer & problem solver 🚀</h3>
+<h3 align="center">Software developer & problem solver 🚀</h3>
 
 ![Mario Working](https://raw.githubusercontent.com/mranal0/mranal0/fd2b0a97f36f4b1e1bed479bf084f1945f027b98/mario-working.gif)
 

@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Mranal</h1>
 <h3 align="center">A passionate developer & problem solver 🚀</h3>
 
-<img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
+![Mario Working](https://raw.githubusercontent.com/mranal0/mranal0/fd2b0a97f36f4b1e1bed479bf084f1945f027b98/mario-working.gif)
 
 
 ## 🌟 About Me
@@ -12,7 +12,7 @@
 - 👯 Open to collaborate on **Java projects / Open Source**  
 - ⚡ Fun fact: I dry run more than I code 😅  
 
-## 🤝 Connect Me
+## 🤝 Connect With Me
 
 <p align="center">
   <!-- LeetCode -->

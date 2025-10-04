@@ -3,6 +3,7 @@
 <h1 align="center">Hi 👋, I'm Mranal</h1>
 <h3 align="center">A passionate developer & problem solver 🚀</h3>
 
+<img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
 
 
 ## 🌟 About Me
